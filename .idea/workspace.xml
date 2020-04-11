@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1b7400-77b0-4a16-a6e9-5e12242ec771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/ApplicationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/MarioStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/CapeMario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/FireMario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/IMario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/MarioStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/SmallMario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/SuperMario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/table/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/table/MarioStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/table/TableMarioStateMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/test/java/com/meetkiki/mario/fsm/SmallMarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finite-state-machine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/finite-state-machine/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finite-state-machine/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/finite-state-machine/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +58,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -147,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586614393744</updated>
-      <workItem from="1586614395156" duration="4981000" />
+      <workItem from="1586614395156" duration="5147000" />
     </task>
     <servers />
   </component>
