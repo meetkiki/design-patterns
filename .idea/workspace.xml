@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac1b7400-77b0-4a16-a6e9-5e12242ec771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finite-state-machine/src/test/java/com/meetkiki/mario/fsm/MarioTest.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finite-state-machine/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/finite-state-machine/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finite-state-machine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/finite-state-machine/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/MarioStateMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/MarioStateMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/finite-state-machine/src/main/java/com/meetkiki/mario/fsm/MarioStateMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finite-state-machine/src/test/java/com/meetkiki/mario/fsm/SmallMarioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,9 +91,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SmallMarioTest.obtainMushRoom">
-    <configuration name="ApplicationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meetkiki.mario.ApplicationDemo" />
+  <component name="RunManager" selected="JUnit.MarioTest">
+    <configuration name="MarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="finite-state-machine" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +100,57 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.meetkiki.mario.fsm" />
+      <option name="MAIN_CLASS_NAME" value="com.meetkiki.mario.fsm.MarioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarioTest.given small when obtainMushRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finite-state-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meetkiki.mario.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meetkiki.mario.fsm" />
+      <option name="MAIN_CLASS_NAME" value="com.meetkiki.mario.fsm.MarioTest" />
+      <option name="METHOD_NAME" value="given small when obtainMushRoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarioTest.given super when obtainMushRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finite-state-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meetkiki.mario.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meetkiki.mario.fsm" />
+      <option name="MAIN_CLASS_NAME" value="com.meetkiki.mario.fsm.MarioTest" />
+      <option name="METHOD_NAME" value="given super when obtainMushRoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarioTest.test obtainMushRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="finite-state-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meetkiki.mario.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meetkiki.mario.fsm" />
+      <option name="MAIN_CLASS_NAME" value="com.meetkiki.mario.fsm.MarioTest" />
+      <option name="METHOD_NAME" value="test obtainMushRoom" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,8 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MarioTest" />
+        <item itemvalue="JUnit.MarioTest.given small when obtainMushRoom" />
+        <item itemvalue="JUnit.MarioTest.given super when obtainMushRoom" />
+        <item itemvalue="JUnit.MarioTest.test obtainMushRoom" />
         <item itemvalue="JUnit.SmallMarioTest.obtainMushRoom" />
-        <item itemvalue="Application.ApplicationDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +191,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586614393744</updated>
-      <workItem from="1586614395156" duration="5147000" />
+      <workItem from="1586614395156" duration="6273000" />
     </task>
     <servers />
   </component>

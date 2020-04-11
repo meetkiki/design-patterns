@@ -4,11 +4,12 @@ import com.meetkiki.mario.State;
 
 public class MarioStateMachine {
     private int score;
-    private IMario currentState; // 不再使用枚举来表示状态
+    // 不再使用枚举来表示状态
+    private IMario currentState;
 
-    public MarioStateMachine() {
+    public MarioStateMachine(IMario mario) {
+        this.currentState = mario;
         this.score = 0;
-        this.currentState = SmallMario.getInstance();
     }
 
     public void obtainMushRoom() {
